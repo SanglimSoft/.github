@@ -18,3 +18,13 @@
 | <img src="https://avatars.githubusercontent.com/u/310862354?v=4" width="40"> | **[DB Linker](https://apps.apple.com/kr/app/db-linker/id6762522023)** | AI 채팅으로 다루는 데이터베이스 |
 | <img src="https://avatars.githubusercontent.com/u/310863736?v=4" width="40"> | **[Spectra](https://apps.apple.com/kr/app/spectra-%EB%A9%94%EB%AA%A8%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-%ED%95%A0-%EC%9D%BC%EA%B3%BC-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%8D%94/id6766253912)** | AI 메모 정리 & 할 일 관리 |
 | <img src="https://avatars.githubusercontent.com/u/311477699?v=4" width="40"> | **여백** | 준비 중 |
+| <img src="https://avatars.githubusercontent.com/u/310863366?v=4" width="40"> | **[오늘의 코드](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%BD%94%EB%93%9C/id6762364977)** | GitHub 레포 분석 기반 개발 역량 성장 앱 |
+
+## Tools & Infra
+
+| | Name | Description |
+|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/310849574?v=4" width="40"> | **[Hermes Agent](https://github.com/Personalized-Hermes)** | 개인화된 AI 에이전트 프로젝트 |
+| <img src="https://avatars.githubusercontent.com/u/310858584?v=4" width="40"> | **[Embedding Models](https://github.com/Embedding-Hub)** | 오픈소스 임베딩 모델 ONNX 양자화 배포 |
+| <img src="https://avatars.githubusercontent.com/u/310860746?v=4" width="40"> | **[Library Core](https://github.com/Library-Core)** | Flutter UI 컴포넌트 라이브러리 모음 |
+| <img src="https://avatars.githubusercontent.com/u/310843806?v=4" width="40"> | **[Claude-Personal](https://github.com/Claude-Personal)** | 개인 Claude Code 설정·실험 저장소 모음 |
