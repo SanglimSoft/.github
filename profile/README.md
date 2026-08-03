@@ -19,6 +19,7 @@
 | <img src="https://avatars.githubusercontent.com/u/310863736?v=4" width="40"> | **Spectra** | [App Store](https://apps.apple.com/kr/app/spectra-%EB%A9%94%EB%AA%A8%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-%ED%95%A0-%EC%9D%BC%EA%B3%BC-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%8D%94/id6766253912) | [Google Play](https://play.google.com/store/apps/details?id=co.spectra.app&hl=ko) | [Spectra-app-hub](https://github.com/Spectra-app-hub) | AI 메모 정리 & 할 일 관리 |
 | <img src="https://avatars.githubusercontent.com/u/311477699?v=4" width="40"> | **여백** | – | – | [Yeobaek-Hub](https://github.com/Yeobaek-Hub) | 준비 중 |
 | <img src="https://avatars.githubusercontent.com/u/310863366?v=4" width="40"> | **오늘의 코드** | [App Store](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%BD%94%EB%93%9C/id6762364977) | – | [CodeLog-Hub](https://github.com/CodeLog-Hub) | GitHub 레포 분석 기반 개발 역량 성장 앱 |
+| <img src="https://avatars.githubusercontent.com/u/309670943?v=4" width="40"> | **Solomon** | – | – | [Solomon-Platform](https://github.com/Solomon-Platform) | 팀용 AI 네이티브 의사결정 워크스페이스 |
 
 ## Tools & Infra
 
