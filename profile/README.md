@@ -19,10 +19,7 @@
 ## Tools & Infra
 
 <table>
-<colgroup>
-<col width="8%"><col width="20%"><col width="21%"><col width="51%">
-</colgroup>
-<tr><th></th><th>Name</th><th>GitHub</th><th>Description</th></tr>
+<tr><th width="8%"></th><th width="20%">Name</th><th width="21%">GitHub</th><th width="51%">Description</th></tr>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310843806?v=4" width="40"></td><td><b>Claude-Personal</b></td><td><a href="https://github.com/Claude-Personal">Claude-Personal</a></td><td>개인 Claude Code 설정·실험 저장소 모음</td></tr>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310858584?v=4" width="40"></td><td><b>Embedding Models</b></td><td><a href="https://github.com/Embedding-Hub">Embedding-Hub</a></td><td>오픈소스 임베딩 모델 ONNX 양자화 배포</td></tr>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310849574?v=4" width="40"></td><td><b>Hermes Agent</b></td><td><a href="https://github.com/Personalized-Hermes">Personalized-Hermes</a></td><td>개인화된 AI 에이전트 프로젝트</td></tr>
@@ -33,9 +30,6 @@
 ## Retired Projects
 
 <table>
-<colgroup>
-<col width="8%"><col width="20%"><col width="21%"><col width="51%">
-</colgroup>
-<tr><th></th><th>Name</th><th>GitHub</th><th>Description</th></tr>
+<tr><th width="8%"></th><th width="20%">Name</th><th width="21%">GitHub</th><th width="51%">Description</th></tr>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310844812?v=4" width="40"></td><td><b>Retired Projects</b></td><td><a href="https://github.com/Retired-Projects">Retired-Projects</a></td><td>종료된 프로젝트 저장소 모음</td></tr>
 </table>
