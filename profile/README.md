@@ -18,7 +18,7 @@
 
 ## Tools & Infra
 
-<table>
+<table width="100%">
 <tr><th width="8%"></th><th width="20%">Name</th><th width="21%">GitHub</th><th width="51%">Description</th></tr>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310843806?v=4" width="40"></td><td><b>Claude-Personal</b></td><td><a href="https://github.com/Claude-Personal">Claude-Personal</a></td><td>개인 Claude Code 설정·실험 저장소 모음</td></tr>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310858584?v=4" width="40"></td><td><b>Embedding Models</b></td><td><a href="https://github.com/Embedding-Hub">Embedding-Hub</a></td><td>오픈소스 임베딩 모델 ONNX 양자화 배포</td></tr>
@@ -29,7 +29,7 @@
 
 ## Retired Projects
 
-<table>
+<table width="100%">
 <tr><th width="8%"></th><th width="20%">Name</th><th width="21%">GitHub</th><th width="51%">Description</th></tr>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310844812?v=4" width="40"></td><td><b>Retired Projects</b></td><td><a href="https://github.com/Retired-Projects">Retired-Projects</a></td><td>종료된 프로젝트 저장소 모음</td></tr>
 </table>
