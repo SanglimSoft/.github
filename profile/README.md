@@ -1,7 +1,3 @@
-# SanglimSoft
-
-**SanglimSoft**는 일상에 도움이 되는 여러 개인 프로덕트를 만들고 운영하는 개발 스튜디오입니다. 정부지원사업 알림부터 AI 상담, 사진 편집, 개발자 도구까지 서로 다른 영역의 서비스를 하나씩 쌓아가고 있습니다.
-
 ## Products
 
 | | Product | App Store | Google Play | GitHub | Description |
@@ -22,16 +18,24 @@
 
 ## Tools & Infra
 
-| | Name | GitHub | Description |
-|---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/310843806?v=4" width="40"> | **Claude-Personal** | [Claude-Personal](https://github.com/Claude-Personal) | 개인 Claude Code 설정·실험 저장소 모음 |
-| <img src="https://avatars.githubusercontent.com/u/310858584?v=4" width="40"> | **Embedding Models** | [Embedding-Hub](https://github.com/Embedding-Hub) | 오픈소스 임베딩 모델 ONNX 양자화 배포 |
-| <img src="https://avatars.githubusercontent.com/u/310849574?v=4" width="40"> | **Hermes Agent** | [Personalized-Hermes](https://github.com/Personalized-Hermes) | 개인화된 AI 에이전트 프로젝트 |
-| <img src="https://avatars.githubusercontent.com/u/310860746?v=4" width="40"> | **Library Core** | [Library-Core](https://github.com/Library-Core) | Flutter UI 컴포넌트 라이브러리 모음 |
-| <img src="https://avatars.githubusercontent.com/u/310801113?v=4" width="40"> | **Loop-Suite** | [Loop-Suite](https://github.com/Loop-Suite) | 독립 리뷰→익명 교차검증→결정론적 판정을 이식한 Rust CLI 모음 |
+<table>
+<colgroup>
+<col width="8%"><col width="20%"><col width="21%"><col width="51%">
+</colgroup>
+<tr><th></th><th>Name</th><th>GitHub</th><th>Description</th></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310843806?v=4" width="40"></td><td><b>Claude-Personal</b></td><td><a href="https://github.com/Claude-Personal">Claude-Personal</a></td><td>개인 Claude Code 설정·실험 저장소 모음</td></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310858584?v=4" width="40"></td><td><b>Embedding Models</b></td><td><a href="https://github.com/Embedding-Hub">Embedding-Hub</a></td><td>오픈소스 임베딩 모델 ONNX 양자화 배포</td></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310849574?v=4" width="40"></td><td><b>Hermes Agent</b></td><td><a href="https://github.com/Personalized-Hermes">Personalized-Hermes</a></td><td>개인화된 AI 에이전트 프로젝트</td></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310860746?v=4" width="40"></td><td><b>Library Core</b></td><td><a href="https://github.com/Library-Core">Library-Core</a></td><td>Flutter UI 컴포넌트 라이브러리 모음</td></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310801113?v=4" width="40"></td><td><b>Loop-Suite</b></td><td><a href="https://github.com/Loop-Suite">Loop-Suite</a></td><td>독립 리뷰→익명 교차검증→결정론적 판정을 이식한 Rust CLI 모음</td></tr>
+</table>
 
 ## Retired Projects
 
-| | Name | GitHub | Description |
-|---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/310844812?v=4" width="40"> | **Retired Projects** | [Retired-Projects](https://github.com/Retired-Projects) | 종료된 프로젝트 저장소 모음 |
+<table>
+<colgroup>
+<col width="8%"><col width="20%"><col width="21%"><col width="51%">
+</colgroup>
+<tr><th></th><th>Name</th><th>GitHub</th><th>Description</th></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310844812?v=4" width="40"></td><td><b>Retired Projects</b></td><td><a href="https://github.com/Retired-Projects">Retired-Projects</a></td><td>종료된 프로젝트 저장소 모음</td></tr>
+</table>
