@@ -30,4 +30,4 @@
 
 | | Name | GitHub | Description |
 |---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/310844812?v=4" width="40"> | **Retired Projects** | [Retired-Projects](https://github.com/Retired-Projects) | 종료된 프로젝트 저장소 모음 |
+| <img src="https://avatars.githubusercontent.com/u/310844812?v=4" width="40"> | **Retired Projects** | [Retired-Projects](https://github.com/Retired-Projects) | 아이디어 검증이나 방향 전환으로 개발을 중단한 사이드 프로젝트 저장소 모음 |
