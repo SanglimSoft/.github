@@ -1,10 +1,3 @@
-## Games
-
-| | Product | App Store | Google Play | GitHub | Description |
-|---|---|---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/315247751?v=4" width="40"> | **[252](https://252.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/252-1%EB%85%84-%EC%A3%BC%EC%8B%9D-%EC%83%9D%EC%A1%B4-%EA%B2%8C%EC%9E%84/id6799869990) | [Google Play](https://play.google.com/store/apps/details?id=twofivetwo.app) | [252-Platform](https://github.com/252-Platform) | 가상 주식시장 라이프 시뮬레이션 게임 |
-| <img src="https://avatars.githubusercontent.com/u/317909361?v=4" width="40"> | **[I can't say that](https://icantsaythat.sanglimsoft.com/)** | – | – | [I-can-t-say-that](https://github.com/I-can-t-say-that) | AI에게 비밀번호를 말하게 만드는 프롬프트 인젝션 퍼즐 게임 |
-
 ## Products
 
 | | Product | App Store | Google Play | GitHub | Description |
@@ -22,6 +15,13 @@
 | <img src="https://avatars.githubusercontent.com/u/310850241?v=4" width="40"> | **[불경](https://bulgyeong.sanglimsoft.com/)** | [App Store](https://apps.apple.com/app/id6762344041) | [Google Play](https://play.google.com/store/apps/details?id=com.orient.sutra.app&hl=ko) | [Sutra-Hub](https://github.com/Sutra-Hub) | 불교 경전 AI 해석 Q&A |
 | <img src="https://avatars.githubusercontent.com/u/310863366?v=4" width="40"> | **[오늘의 코드](https://today-code.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%BD%94%EB%93%9C/id6762364977) | – | [CodeLog-Hub](https://github.com/CodeLog-Hub) | GitHub 레포 분석 기반 개발 역량 성장 앱 |
 | <img src="https://avatars.githubusercontent.com/u/310858111?v=4" width="40"> | **[흔적](https://heunjeok.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/%ED%9D%94%EC%A0%81/id6780371736) | [Google Play](https://play.google.com/store/apps/details?id=com.failure.app&hl=ko) | [Failure-Hub](https://github.com/Failure-Hub) | 일상의 흔적을 기록하는 앱 |
+
+## Games
+
+| | Product | App Store | Google Play | GitHub | Description |
+|---|---|---|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/315247751?v=4" width="40"> | **[252](https://252.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/252-1%EB%85%84-%EC%A3%BC%EC%8B%9D-%EC%83%9D%EC%A1%B4-%EA%B2%8C%EC%9E%84/id6799869990) | [Google Play](https://play.google.com/store/apps/details?id=twofivetwo.app) | [252-Platform](https://github.com/252-Platform) | 가상 주식시장 라이프 시뮬레이션 게임 |
+| <img src="https://avatars.githubusercontent.com/u/317909361?v=4" width="40"> | **[I can't say that](https://icantsaythat.sanglimsoft.com/)** | – | – | [I-can-t-say-that](https://github.com/I-can-t-say-that) | AI에게 비밀번호를 말하게 만드는 프롬프트 인젝션 퍼즐 게임 |
 
 ## Tools & Infra
 
