@@ -1,8 +1,14 @@
+## Games
+
+| | Product | App Store | Google Play | GitHub | Description |
+|---|---|---|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/315247751?v=4" width="40"> | **[252](https://252.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/252-1%EB%85%84-%EC%A3%BC%EC%8B%9D-%EC%83%9D%EC%A1%B4-%EA%B2%8C%EC%9E%84/id6799869990) | [Google Play](https://play.google.com/store/apps/details?id=twofivetwo.app) | [252-Platform](https://github.com/252-Platform) | 가상 주식시장 라이프 시뮬레이션 게임 |
+| <img src="https://avatars.githubusercontent.com/u/317909361?v=4" width="40"> | **[I can't say that](https://icantsaythat.sanglimsoft.com/)** | – | – | [I-can-t-say-that](https://github.com/I-can-t-say-that) | AI에게 비밀번호를 말하게 만드는 프롬프트 인젝션 퍼즐 게임 |
+
 ## Products
 
 | | Product | App Store | Google Play | GitHub | Description |
 |---|---|---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/315247751?v=4" width="40"> | **[252](https://252.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/252-1%EB%85%84-%EC%A3%BC%EC%8B%9D-%EC%83%9D%EC%A1%B4-%EA%B2%8C%EC%9E%84/id6799869990) | – | [252-Platform](https://github.com/252-Platform) | 가상 주식시장 라이프 시뮬레이션 게임 |
 | <img src="https://avatars.githubusercontent.com/u/310861734?v=4" width="40"> | **[Canary](https://canary.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/canary/id6772171185) | [Google Play](https://play.google.com/store/apps/details?id=com.canaryapp.android&hl=ko) | [Canary-Hub](https://github.com/Canary-Hub) | 해외 식품 리콜 경보 |
 | <img src="https://avatars.githubusercontent.com/u/310837069?v=4" width="40"> | **[Capybite](https://capybite.sanglimsoft.com/)** | [iOS](https://apps.apple.com/kr/app/capybite-mobile/id6791978586) · [Mac](https://apps.apple.com/kr/app/capybite/id6791479858?mt=12) | [Google Play](https://play.google.com/store/apps/details?id=com.capybite.app&hl=ko) | [CopyBite-Hub](https://github.com/CopyBite-Hub) | 카피바라 캐릭터 시스템 모니터 |
 | <img src="https://avatars.githubusercontent.com/u/310838264?v=4" width="40"> | **[CouponLog](https://coupon.sanglimsoft.com/)** | – | – | [CouponLog](https://github.com/CouponLog) | 매장 도장·쿠폰 적립 관리 |
