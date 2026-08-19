@@ -22,6 +22,7 @@
 |---|---|---|---|---|---|
 | <img src="https://avatars.githubusercontent.com/u/315247751?v=4" width="40"> | **[252](https://252.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/252-1%EB%85%84-%EC%A3%BC%EC%8B%9D-%EC%83%9D%EC%A1%B4-%EA%B2%8C%EC%9E%84/id6799869990) | [Google Play](https://play.google.com/store/apps/details?id=twofivetwo.app) | [252-Platform](https://github.com/252-Platform) | 가상 주식시장 라이프 시뮬레이션 게임 |
 | <img src="https://avatars.githubusercontent.com/u/317909361?v=4" width="40"> | **[I can't say that](https://icantsaythat.sanglimsoft.com/)** | – | – | [I-can-t-say-that](https://github.com/I-can-t-say-that) | AI에게 비밀번호를 말하게 만드는 프롬프트 인젝션 퍼즐 게임 |
+| <img src="https://avatars.githubusercontent.com/u/318213237?v=4" width="40"> | **[liar.ai](https://liarai.sanglimsoft.com/)** | – | – | [Liar-AI-Game](https://github.com/Liar-AI-Game) | 1인용 AI 라이어게임 |
 
 ## Tools & Infra
 
