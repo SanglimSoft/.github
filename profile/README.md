@@ -29,8 +29,6 @@
 | | Name | GitHub | Description |
 |---|---|---|---|
 | <img src="https://avatars.githubusercontent.com/u/310843806?v=4" width="40"> | **Claude-Personal** | [Claude-Personal](https://github.com/Claude-Personal) | 개인 Claude Code 설정·실험 저장소 모음 |
-| <img src="https://avatars.githubusercontent.com/u/310858584?v=4" width="40"> | **Embedding Models** | [Embedding-Hub](https://github.com/Embedding-Hub) | 오픈소스 임베딩 모델 ONNX 양자화 배포 |
-| <img src="https://avatars.githubusercontent.com/u/310849574?v=4" width="40"> | **Hermes Agent** | [Personalized-Hermes](https://github.com/Personalized-Hermes) | 개인화된 AI 에이전트 프로젝트 |
 | <img src="https://avatars.githubusercontent.com/u/310860746?v=4" width="40"> | **Library Core** | [Library-Core](https://github.com/Library-Core) | Flutter UI 컴포넌트 라이브러리 모음 |
 | <img src="https://avatars.githubusercontent.com/u/310801113?v=4" width="40"> | **Loop-Suite** | [Loop-Suite](https://github.com/Loop-Suite) | 독립 리뷰→익명 교차검증→결정론적 판정을 이식한 Rust CLI 모음 |
 
