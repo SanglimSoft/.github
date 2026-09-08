@@ -4,7 +4,7 @@
 
 SanglimSoft builds and operates practical AI, productivity, information, lifestyle, and simulation game apps.
 
-**[공식 웹사이트에서 전체 앱 보기](https://sanglimsoft.com/)** · 아래 표에서 App Store와 Google Play로 바로 이동할 수 있습니다.
+**[공식 웹사이트](https://sanglimsoft.com/)** · **[전체 앱 보기](https://sanglimsoft.com/software/)** · 아래 표에서 App Store와 Google Play로 바로 이동할 수 있습니다.
 
 ## Apps & Products
 
