@@ -29,11 +29,16 @@ SanglimSoft builds and operates practical AI, productivity, information, lifesty
 
 ## Mac
 
-| | Product | Mac | GitHub | Description |
-|---|---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/309670943?v=4" width="40"> | **[Solomon](https://solomon.sanglimsoft.com/)** | [Mac](https://apps.apple.com/kr/app/solomon-desktop/id6796746137?mt=12) | [Solomon-Platform](https://github.com/Solomon-Platform) | 팀용 AI 네이티브 의사결정 워크스페이스 |
-| <img src="https://avatars.githubusercontent.com/u/310837069?v=4" width="40"> | **[Capybite](https://capybite.sanglimsoft.com/)** | [Mac](https://apps.apple.com/kr/app/capybite/id6791479858?mt=12) | [CopyBite-Hub](https://github.com/CopyBite-Hub) | 카피바라 캐릭터 시스템 모니터 |
-| <img src="https://raw.githubusercontent.com/ubs-Paltform/ubs/main/desktop/src-tauri/icons/icon-v2.png" width="40"> | **[UBS](https://github.com/ubs-Paltform/ubs)** | – | [ubs-Paltform](https://github.com/ubs-Paltform/ubs) | 멀티플랫폼 프로젝트 자동 빌드·배포 도구 |
+<table width="100%">
+<thead>
+<tr><th></th><th>Product</th><th>Mac</th><th>GitHub</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr><td><img src="https://avatars.githubusercontent.com/u/309670943?v=4" width="40"></td><td><strong><a href="https://solomon.sanglimsoft.com/">Solomon</a></strong></td><td><a href="https://apps.apple.com/kr/app/solomon-desktop/id6796746137?mt=12">Mac</a></td><td><a href="https://github.com/Solomon-Platform">Solomon-Platform</a></td><td>팀용 AI 네이티브 의사결정 워크스페이스</td></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310837069?v=4" width="40"></td><td><strong><a href="https://capybite.sanglimsoft.com/">Capybite</a></strong></td><td><a href="https://apps.apple.com/kr/app/capybite/id6791479858?mt=12">Mac</a></td><td><a href="https://github.com/CopyBite-Hub">CopyBite-Hub</a></td><td>카피바라 캐릭터 시스템 모니터</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/ubs-Paltform/ubs/main/desktop/src-tauri/icons/icon-v2.png" width="40"></td><td><strong><a href="https://github.com/ubs-Paltform/ubs">UBS</a></strong></td><td>–</td><td><a href="https://github.com/ubs-Paltform/ubs">ubs-Paltform</a></td><td>멀티플랫폼 프로젝트 자동 빌드·배포 도구</td></tr>
+</tbody>
+</table>
 
 ## Games
 
@@ -47,11 +52,16 @@ SanglimSoft builds and operates practical AI, productivity, information, lifesty
 
 ## Tools & Infra
 
-| | Name | GitHub | Description |
-|---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/310843806?v=4" width="40"> | **Claude-Personal** | [Claude-Personal](https://github.com/Claude-Personal) | 개인 Claude Code 설정·실험 저장소 모음 |
-| <img src="https://avatars.githubusercontent.com/u/310860746?v=4" width="40"> | **Library Core** | [Library-Core](https://github.com/Library-Core) | Flutter UI 컴포넌트·Hermes Agent·임베딩 모델 등 통합 라이브러리 모음 |
-| <img src="https://avatars.githubusercontent.com/u/310801113?v=4" width="40"> | **Loop-Suite** | [Loop-Suite](https://github.com/Loop-Suite) | 독립 리뷰→익명 교차검증→결정론적 판정을 이식한 Rust CLI 모음 |
+<table width="100%">
+<thead>
+<tr><th></th><th>Name</th><th>GitHub</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310843806?v=4" width="40"></td><td><strong>Claude-Personal</strong></td><td><a href="https://github.com/Claude-Personal">Claude-Personal</a></td><td>개인 Claude Code 설정·실험 저장소 모음</td></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310860746?v=4" width="40"></td><td><strong>Library Core</strong></td><td><a href="https://github.com/Library-Core">Library-Core</a></td><td>Flutter UI 컴포넌트·Hermes Agent·임베딩 모델 등 통합 라이브러리 모음</td></tr>
+<tr><td><img src="https://avatars.githubusercontent.com/u/310801113?v=4" width="40"></td><td><strong>Loop-Suite</strong></td><td><a href="https://github.com/Loop-Suite">Loop-Suite</a></td><td>독립 리뷰→익명 교차검증→결정론적 판정을 이식한 Rust CLI 모음</td></tr>
+</tbody>
+</table>
 
 ## Retired Projects
 
