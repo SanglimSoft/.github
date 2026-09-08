@@ -1,4 +1,12 @@
-## Products
+# SanglimSoft · 상림소프트
+
+**AI·생산성·정보 앱과 시뮬레이션 게임을 직접 만들고 운영하는 독립 소프트웨어 스튜디오입니다.**
+
+SanglimSoft builds and operates practical AI, productivity, information, lifestyle, and simulation game apps.
+
+**[공식 웹사이트에서 전체 앱 보기](https://sanglimsoft.com/)** · 아래 표에서 App Store와 Google Play로 바로 이동할 수 있습니다.
+
+## Apps & Products
 
 | | Product | App Store | Google Play | GitHub | Description |
 |---|---|---|---|---|---|
