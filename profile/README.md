@@ -36,7 +36,7 @@ SanglimSoft builds and operates practical AI, productivity, information, lifesty
 <tbody>
 <tr><td><img src="https://avatars.githubusercontent.com/u/309670943?v=4" width="40"></td><td><strong><a href="https://solomon.sanglimsoft.com/">Solomon</a></strong></td><td><a href="https://apps.apple.com/kr/app/solomon-desktop/id6796746137?mt=12">Mac</a></td><td><a href="https://github.com/Solomon-Platform">Solomon-Platform</a></td><td>팀용 AI 네이티브 의사결정 워크스페이스</td></tr>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310837069?v=4" width="40"></td><td><strong><a href="https://capybite.sanglimsoft.com/">Capybite</a></strong></td><td><a href="https://apps.apple.com/kr/app/capybite/id6791479858?mt=12">Mac</a></td><td><a href="https://github.com/CopyBite-Hub">CopyBite-Hub</a></td><td>카피바라 캐릭터 시스템 모니터</td></tr>
-<tr><td><img src="https://raw.githubusercontent.com/ubs-Paltform/ubs/main/desktop/src-tauri/icons/icon-v2.png" width="40"></td><td><strong><a href="https://github.com/ubs-Paltform/ubs">UBS</a></strong></td><td>–</td><td><a href="https://github.com/ubs-Paltform/ubs">ubs-Paltform</a></td><td>멀티플랫폼 프로젝트 자동 빌드·배포 도구</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/ubs-Paltform/ubs/main/desktop/src-tauri/icons/icon-v2.png" width="40"></td><td><strong><a href="https://ubs.sanglimsoft.com/">UBS</a></strong></td><td>–</td><td><a href="https://github.com/ubs-Paltform/ubs">ubs-Paltform</a></td><td>멀티플랫폼 프로젝트 자동 빌드·배포 도구</td></tr>
 </tbody>
 </table>
 
