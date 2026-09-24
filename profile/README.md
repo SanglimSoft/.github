@@ -62,7 +62,7 @@ SanglimSoft builds and operates practical AI, productivity, information, lifesty
 | <img src="https://avatars.githubusercontent.com/u/324376038?v=4" width="40"> | **[Uchronia](https://uchronia.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/uchronia-%EB%8C%80%EC%B2%B4%EC%97%AD%EC%82%AC-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/id6808938650) | [Google Play](https://play.google.com/store/apps/details?id=uchronia.app) | [Uchronia-Platform](https://github.com/Uchronia-Platform) | LLM 대체역사 시뮬레이션(1914·1936·1962·1989) |
 | <img src="https://avatars.githubusercontent.com/u/318213237?v=4" width="40"> | **[liar.ai](https://liarai.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/liar-ai/id6802895609) | [Google Play](https://play.google.com/store/apps/details?id=liar.ai) | [Liar-AI-Game](https://github.com/Liar-AI-Game) | 1인용 AI 라이어게임 |
 | <img src="https://avatars.githubusercontent.com/u/333189105?v=4" width="40"> | **[부캉이 키우기](https://bukangi.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/id6815577159) | [Google Play](https://play.google.com/store/apps/details?id=bukangi.app) | [bukangi](https://github.com/bukangi) | 물빛항 수로의 상어 부캉이를 키워 바다로 돌려보내는 싱글 육성 게임 |
-| <img src="https://avatars.githubusercontent.com/u/333189196?v=4" width="40"> | **젤리몬** | – | – | [jellymon](https://github.com/jellymon) | 한 손 조작 레트로 러닝 액션 |
+| <img src="https://avatars.githubusercontent.com/u/333189196?v=4" width="40"> | **[젤리몬](https://jellymon.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/id6815544859) | [Google Play](https://play.google.com/store/apps/details?id=app.jellymon) | [jellymon](https://github.com/jellymon) | 한 손 조작 레트로 러닝 액션 |
 
 ## Tools & Infra
 
