@@ -82,6 +82,11 @@ SanglimSoft builds and operates practical AI, productivity, information, lifesty
 | <img src="https://avatars.githubusercontent.com/u/334168799?v=4" width="40"> | **반칙 장기** | [App Store](https://apps.apple.com/kr/app/id6816395378) | – | [Break-Janggi](https://github.com/Break-Janggi) | 파괴 타일로 장기 규칙을 부수며 8국면과 장군전을 넘는 로그라이크 |
 | <img src="https://avatars.githubusercontent.com/u/334168890?v=4" width="40"> | **두두리** | [App Store](https://apps.apple.com/kr/app/id6816392630) | – | [Duduri-Platform](https://github.com/Duduri-Platform) | 페그 물리 퍼즐 로그라이크 |
 | <img src="https://avatars.githubusercontent.com/u/334168611?v=4" width="40"> | **명당 루프** | [App Store](https://apps.apple.com/kr/app/id6816395557) | – | [Loop-Designer](https://github.com/Loop-Designer) | 타일 배치 오토배틀 로그라이트 |
+| <img src="https://avatars.githubusercontent.com/u/335038566?v=4" width="40"> | **[반죽](https://banjuk.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/id6816836762) | – | [Banjuk-Platform](https://github.com/Banjuk-Platform) | 손가락 하나로 돕거나 망치는 천 년 — 도트 빵 문명 샌드박스 |
+| <img src="https://avatars.githubusercontent.com/u/335038805?v=4" width="40"> | **[인화](https://bokwonsil.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/id6816837021) | – | [Bokwonsil-Platform](https://github.com/Bokwonsil-Platform) | 곰팡이 핀 가족사진을 문질러 되살리는 옛 사진 복원 게임 |
+| <img src="https://avatars.githubusercontent.com/u/335039078?v=4" width="40"> | **[상석](https://hoeuisil.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/id6816837152) | – | [Hoeuisil](https://github.com/Hoeuisil) | 회의실부터 명절 큰댁까지 누가 어디 앉을까 — 자리 배치 논리 퍼즐 |
+| <img src="https://avatars.githubusercontent.com/u/335039302?v=4" width="40"> | **[파발](https://yeokma.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/id6816837085) | – | [Yeokma-Platform](https://github.com/Yeokma-Platform) | 선을 그어 8도를 잇는 조선 역참 노선 시뮬레이션 |
+| <img src="https://avatars.githubusercontent.com/u/335039459?v=4" width="40"> | **[Soul Dungeon](https://souldungeon.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/id6816683215) | – | [Soul-Dungeon](https://github.com/Soul-Dungeon) | 한 손으로 즐기는 15분 던전 런 액션 로그라이크 |
 
 ## Tools & Infra
 
