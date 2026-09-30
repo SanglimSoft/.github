@@ -88,7 +88,6 @@ SanglimSoft builds and operates practical AI, productivity, information, lifesty
 </thead>
 <tbody>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310843806?v=4" width="40"></td><td><strong>Claude-Personal</strong></td><td><a href="https://github.com/Claude-Personal">Claude-Personal</a></td><td>개인 Claude Code 설정·실험 저장소 모음</td></tr>
-<tr><td><img src="https://avatars.githubusercontent.com/u/310860746?v=4" width="40"></td><td><strong>Library Core</strong></td><td><a href="https://github.com/Library-Core">Library-Core</a></td><td>Flutter UI 컴포넌트·Hermes Agent·임베딩 모델 등 통합 라이브러리 모음</td></tr>
 <tr><td><img src="https://avatars.githubusercontent.com/u/310801113?v=4" width="40"></td><td><strong>Loop-Suite</strong></td><td><a href="https://github.com/Loop-Suite">Loop-Suite</a></td><td>독립 리뷰→익명 교차검증→결정론적 판정을 이식한 Rust CLI 모음</td></tr>
 </tbody>
 </table>
