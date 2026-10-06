@@ -52,17 +52,6 @@ SanglimSoft builds and operates practical AI, productivity, information, lifesty
 | <img src="https://raw.githubusercontent.com/SanglimSoft/.github/main/profile/icons/plungepop.png" width="40"> | **[플런지 팝](https://plungepop.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/id6816376876) | – | 막힌 배수구를 뻥 뚫는 청소 ASMR 게임 |
 | <img src="https://raw.githubusercontent.com/SanglimSoft/.github/main/profile/icons/souldungeon.png" width="40"> | **[Soul Dungeon](https://souldungeon.sanglimsoft.com/)** | [App Store](https://apps.apple.com/kr/app/id6816683215) | – | 한 손으로 즐기는 15분 던전 런 액션 로그라이크 |
 
-## Tools & Infra
-
-<table width="100%">
-<thead>
-<tr><th></th><th>Name</th><th>GitHub</th><th>Description</th></tr>
-</thead>
-<tbody>
-<tr><td><img src="https://avatars.githubusercontent.com/u/310801113?v=4" width="40"></td><td><strong>Loop-Suite</strong></td><td><a href="https://github.com/Loop-Suite">Loop-Suite</a></td><td>독립 리뷰→익명 교차검증→결정론적 판정을 이식한 Rust CLI 모음</td></tr>
-</tbody>
-</table>
-
 ## Retired Projects
 
 | | Name | GitHub | Description |
